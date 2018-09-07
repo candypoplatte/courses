@@ -50,7 +50,7 @@
 - Client에서 인터넷 접속 시, ISP에서 DNS Server의 IP를 세팅해 줌
 - 사용할 DNS Server 변경 가능
   - 성능이 느리다거나, Privacy Issue
-- Public DNS 
+- Public DNS
   - 무료로 사용할 수 있는 DNS Server
 - Google에서도 DNS Server를 제공함!
   - 8.8.8.8 & 8.8.4.4 : 두 개인 이유. 하나가 문제 생기면 다른 것 사용
@@ -105,8 +105,7 @@
       - "example.com 등록해줘"
       - 등록대행자의 네임서버는 a.xxx.net이라고 가정
   2. Top-level Domain Name Server에 등록 : 등록대행자 -> 등록소
-      - .com. 을 관리하는 Top-level Domain Name Server가   
- example.com의 NS가 a.xxx.net이라는 것을 기록하게 함
+      - .com. 을 관리하는 Top-level Domain Name Server가 example.com의 NS가 a.xxx.net이라는 것을 기록하게 함
       - 저장할 Record :  example.com NS a.xxx.net
   3. IP 연결
       - 등록자가 example.com의 IP는 123.123.123.123이라는 것을 Second-Level Domain의 네임서버에 등록 (보통 등록대행자 Site 통해 등록)
@@ -134,7 +133,7 @@
 
 - DNS Record : DNS Server에 저장하는 Domain Name에 대한 정보 1건
   - ex) example.com. A 123.123.123.123
-- [Record Type]https://en.wikipedia.org/wiki/List_of_DNS_record_types)  
+- [Record Type](https://en.wikipedia.org/wiki/List_of_DNS_record_types)
   - A : Address. IPv4 주소를 반환함
     - ex) example.com. A 123.123.123.123
   - CNAME : Canonical Name Record. Alias 개념.
