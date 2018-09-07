@@ -6,7 +6,7 @@
 
 ### [Udacity](https://www.udacity.com/)
 
-- Writing READMEs
+- [Writing READMEs](udacity/writing_readmes.md)
 - Shell Workshop
 - Linux Command Line Basics
 - *(수강중) Authentication & Authorization: OAuth*
@@ -21,8 +21,8 @@
 
 - WEB1 - HTML & Internet
 - WEB2 - Home server
-- WEB2 - Domain Name System
-- WEB2 - HTTP
+- [WEB2 - Domain Name System](coding-everybody/web2-domain_name_system.md)
+- [WEB2 - HTTP](coding-everybody/web2-domain_name_system.md)
 - WEB2 - CSS
 - WEB2 - OAuth 2.0
 - *(수강중) WEB2 - Javascript*
