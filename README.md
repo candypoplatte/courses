@@ -24,4 +24,11 @@
 - WEB2 - Domain Name System
 - WEB2 - HTTP
 - WEB2 - CSS
-- WEB2 - OAuth 2.0*
+- WEB2 - OAuth 2.0
+- *(수강중) WEB2 - Javascript*
+
+### [Nomad Coders](https://academy.nomadcoders.co/)
+
+- [이론] 카카오톡 프런트엔드 클론 코딩
+- [실전] 카카오톡 프런트엔드 클론 코딩
+- *(수강중) [실전] ReactJS로 웹 서비스 만들기*
