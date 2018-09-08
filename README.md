@@ -22,7 +22,7 @@
 - WEB1 - HTML & Internet
 - WEB2 - Home server
 - [WEB2 - Domain Name System](coding-everybody/web2-domain_name_system.md)
-- [WEB2 - HTTP](coding-everybody/web2-domain_name_system.md)
+- [WEB2 - HTTP](coding-everybody/web2-http.md)
 - WEB2 - CSS
 - WEB2 - OAuth 2.0
 - *(수강중) WEB2 - Javascript*
